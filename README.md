@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Halina 👋</h1>
 
 <p align="center">
   Electrical Engineering student focused on embedded systems, control systems, and hands-on hardware design.
