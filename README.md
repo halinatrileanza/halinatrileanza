@@ -60,9 +60,16 @@ Humanitarian engineering • Sustainable hardware • Repairable systems • Tec
 
 ## 📫 Connect
 
-<a href = "https://linkedin.com/in/halinatl">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width = "200px" height = "200px" alt = "LinkedIn Logo"/> LinkedIn
-</a>
-
-[LinkedIn](https://linkedin.com/in/halinatl)  
-[Email](mailto:halinatrileanza@gmail.com)
+<ul>
+  <li>
+    <a href = "https://linkedin.com/in/halinatl">
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width = "20px" height = "20px" alt = "LinkedIn Logo"/> LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href = "mailto:halinatrileanza@gmail.com">
+      <img src = "https://freesvg.org/img/icon-email.png" width = "20px" height = "20px" alt = "Email Icon"/>
+      Email
+    </a>
+  </li>
+</ul>
