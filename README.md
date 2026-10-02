@@ -1,75 +1,154 @@
-<h1 align="center">Hi, I'm Halina 👋</h1>
+<div align="center">
 
-<p align="center">
-  Electrical Engineering student focused on embedded systems, control systems, and hands-on hardware design.
-</p>
+# Hi, I'm Halina 👋
 
-<p align="center">
-  I build low-cost sensors, teach electronics, and turn circuit ideas into working prototypes.
-</p>
+### Electrical Engineer & JD Candidate
+
+[LinkedIn](https://linkedin.com/in/halinatl) · [Email](mailto:halinatrileanza@gmail.com)
+
+</div>
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🔧 What I Build
+### 🔧 I like building things
 
-- **Low-Cost Water Quality Sensor** — Arduino-based TDS/turbidity system designed for rural deployment in Ethiopia  
-- **PID Balancing System** — closed-loop control demo for real-time stability and tuning  
-- **DIY Tesla Coil** — dual-winding inductive system used to wirelessly light CFL bulbs  
-- **Custom PCB Etching** — ferric chloride + copper-clad boards for take-home PCB projects  
-- **Electronics Workshops** — led 10+ hands-on sessions covering soldering, motors, displays, and embedded systems  
+I've always liked taking an idea and seeing if I can actually make it work.
 
-    </td>
-    <td width="35%" valign="top">
+Circuits, sensors, embedded systems, software, cloud infrastructure, random electronics projects...
 
-## 🧰 Toolbox
+If I can build it, I'm probably interested.
 
-**Hardware**  
-Arduino • Sensors • Motors • Soldering • PCB Etching  
+</td>
 
-**Software**  
-C/C++ • Arduino IDE • Control Logic  
+<td width="50%" valign="top">
 
-**Concepts**  
-PID • Embedded Systems • Digital Logic • Circuit Design  
+### ⚖️ Where I'm headed
 
-  </td>
-  </tr>
+I'm currently pursuing my JD and I'm interested in patent & intellectual property law.
+
+I want to stay close to the engineering world while learning the legal side of innovation.
+
+</td>
+</tr>
+</table>
+
+---
+<div align="center">
+
+  ### ⚡ Engineering
+
+</div>
+
+**Hardware**
+
+`Arduino` `C/C++` `Sensors` `PCBs` `Circuit Design` `Motors`
+
+**Software & Cloud**
+
+`Python` `React` `Django` `AWS` `Terraform` `Ansible` `Kubernetes`
+
+---
+
+<div align="center">
+  
+### 🛠️ Things I've Made
+
+</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 Low-cost Water Quality Sensor
+
+Arduino-based TDS/turbidity system designed for rural deployment in Ethiopia.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚖️ PID Balancing System
+
+Closed-loop control demo for real-time stability and tuning.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Tesla Coil
+
+Dual-winding inductive system used to wirelessly light CFL bulbs.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Motorized Brutus Buckeye
+
+Motorized Brutus Buckeye figurine using an astable multivibrator.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+###  💻 Custom PCB Etching
+
+Ferric chloride + copper-clad boards for take-home PCB projects.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Electronics Workshops
+
+I taught many workshops during my time at The Electronics club at OSU. PCBs, motors, displays, shift registers, motor drivers, oscillators, and whatever else I happened to be curious about.
+
+</td>
+
+
+</tr>
 </table>
 
 ---
 
-## 🛠️ Workshop Builds
+<div align="center">
+  
+### 🌱 Things I Care About
 
-- Motorized Brutus Buckeye figurine using an **astable multivibrator**
-- Oscillating fan mechanism using **Arduino + L293D motor drivers**
-- Shift registers and **7-segment displays**
-- Hand-crank flashlight and motor demos
-- PID-based stick balancing system
+</div>
+
+🌍 Humanitarian Engineering
+
+♻️ Sustainable & Repairable Technology
+
+🔧 Accessible Hardware
+
+💡 Innovation & Inventorship
+
+🎓 Technical Education
+
+⚡ Electronics & Energy
+
+☁️ Technology & Infrastructure
+
+⚖️ Intellectual Property & Patent Law
 
 ---
 
-## 🌍 Engineering Interests
+<div align="center">
 
-Humanitarian engineering • Sustainable hardware • Repairable systems • Technical education
+### 💡 Why patent law?
 
----
+I think the best way to understand inventors  
+is to keep being one.
 
-## 📫 Connect
 
-<ul>
-  <li>
-    <a href = "https://linkedin.com/in/halinatl">
-      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width = "20px" height = "20px" alt = "LinkedIn Logo"/> LinkedIn
-    </a>
-  </li>
-  <li>
-    <a href = "mailto:halinatrileanza@gmail.com">
-      <img src = "https://freesvg.org/img/icon-email.png" width = "20px" height = "20px" alt = "Email Icon"/>
-      Email
-    </a>
-  </li>
-</ul>
+### Still an engineer. Just learning to speak lawyer.
+
+</div>
